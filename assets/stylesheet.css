@@ -1,0 +1,11 @@
+body {
+    background-color: #1c1c1c;
+}
+
+.heading-1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: deeppink;
+    font-family: fira sans;
+}
