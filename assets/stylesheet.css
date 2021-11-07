@@ -4,7 +4,7 @@ body {
     background-color: #1c1c1c;
 }
 
-.heading-1 {
+h1 {
     display: flex;
     align-items: center;
     justify-content: center;
