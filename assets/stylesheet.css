@@ -1,5 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap");
+
 body {
     background-color: #1c1c1c;
+}
+
+img{
+    width: 250px;
+    height: 250px;
+    display: block;
+    margin: 0px auto 0px auto;
 }
 
 .heading-1 {
@@ -7,5 +16,6 @@ body {
     align-items: center;
     justify-content: center;
     color: deeppink;
-    font-family: fira sans;
+    text-shadow: 2px 2px indigo;
+    font-family: 'Fira Sans';
 }
