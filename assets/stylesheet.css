@@ -17,5 +17,5 @@ img{
     justify-content: center;
     color: deeppink;
     text-shadow: 2px 2px indigo;
-    font-family: 'Fira Sans';
+    font-family: 'Fira Sans', sans-serif;
 }
